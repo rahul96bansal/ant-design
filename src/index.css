@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.ant-form-item-label {
+  display: inline-block;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  overflow: hidden;
+  /* white-space: nowrap; */
+  text-align: leftb;
+  vertical-align: middle;
+}
+.test {
+  text-align: center;
+}
